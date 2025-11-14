@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'futura';
+    font-style: normal;
+    font-weight: 50px;
+    src: local('Futura PT Bold'), url('FuturaCyrillicHeavy.woff') format('woff');
+    }
