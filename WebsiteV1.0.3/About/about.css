@@ -1,0 +1,27 @@
+body {
+    background-color: #dacad7;
+}
+
+/* Navigation start*/
+.nav {
+    padding: 0 0;
+    margin-top: 1.2em;
+    display: flex;
+    justify-content: center;
+}
+
+.BLink {
+    text-decoration: none;
+    color: black;
+    background-color: #e9e7e9;
+    padding: 0.5em 3em;
+    margin-right: 1em;
+    font-size: 1.4em;
+    border-radius: 1cm;
+}
+
+#CurrentWeb { 
+    background-color: #bb77bb;
+} /* Navigation end*/
+
+/*Main stuff start*/
