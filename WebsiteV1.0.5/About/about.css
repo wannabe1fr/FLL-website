@@ -1,0 +1,55 @@
+body {
+    background-color: #a3a3a0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation start*/
+#head {
+    background-color: #7b5b3e;
+    display: flex;
+    justify-content: middle;
+    position: relative;
+}
+
+.logo {
+    padding-right: 10em;
+    display: inline-block
+}
+
+.nav {
+    padding: 0 0;
+    margin-top: 1.5em;
+    display: flex;
+}
+
+.BLink {
+    font-family: Jost;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+    background-color: #3f4345;
+    padding: 0.5em 3em;
+    margin-right: 3em;
+    font-size: 1.4em;
+    border-radius: 1cm;
+    margin-left: 4em;
+    margin-bottom: 1em;
+}
+
+#CurrentWeb { 
+    background-color: #a3a3a0;
+} /* Navigation end*/
+
+/*Main stuff start*/
+
+
+
+/*Footer start*/
+#footer {
+    background-color:#646464;
+    position: fixed;
+    display: flex;
+    bottom: 0;
+    width: 100%;
+}
